@@ -144,4 +144,5 @@ In that case, insert the number."
     '(company-tooltip-annotation ((t (:inherit font-lock-builtin-face))))
     '(company-tooltip-selection  ((t (:inherit highlight))))))
 (provide 'company_init)
+
 ;;; company_init.el ends here
